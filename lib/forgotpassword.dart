@@ -6,6 +6,7 @@ class ForgotPassPage extends StatefulWidget {
   _ForgotPassPageState createState() => _ForgotPassPageState();
 }
 
+// just some testing
 class _ForgotPassPageState extends State<ForgotPassPage> {
   @override
   Widget build(BuildContext context) {
